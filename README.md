@@ -1,7 +1,7 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m An TongJing
 <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge?page_id=defings.readme"  />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&lines=我+欲+成+仙，+快+乐+齐+天！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=435&lines=%E6%88%91%E6%AC%B2%E6%88%90%E4%BB%99%EF%BC%8C%E5%BF%AB%E4%B9%90%E9%BD%90%E5%A4%A9)](https://git.io/typing-svg)
 
 <table>
 <tr>
