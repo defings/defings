@@ -1,5 +1,5 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m An TongJing
-![visitors](https://visitor-badge.glitch.me/badge?page_id=defings&left_color=#0a90b0&right_color=#24d1ec)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=defings.id&left_color=green&right_color=red)
 <table>
 <tr>
 <td valign="top"  width="50%">
