@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m An TongJing
+![visitors](https://visitor-badge.glitch.me/badge?page_id=defings&left_color=green&right_color=red)
+<table>
+<tr>
+<td valign="top"  width="50%">
 
-<!--
-**defings/defings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚩 I am currently a crawler engineer working in Chengdu, China
+- 👨‍💻 I’m currently learning Java, Python, Golang, JS, AI...
+- ✍️ [MyBlog](https://www.tongjing.cc)
+- 📫 Reach me: [email](mailto:sleep002@Outlook.com)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/defings?label=follow%20me&style=social)](https://github.com/defings/)
+- 🎣 Fun facts: table tennis, cycling, photography, travel, exercise, thinking, minimalism
 
-Here are some ideas to get you started:
+**「心之所向，素履以往，生如逆旅，一苇以航.」** ❤️
+</td>
+<td valign="center"  width="100%" height="100%">
+<img src="https://static.tongjing.cc/private-user/picture/github-home.jpg" width="500" height="300">
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+🏆 **my github stats:**
+
+|![](https://github-readme-stats.vercel.app/api?username=defings)|![Defings Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defings&layout=compact&hide_border=true&langs_count=10)|
+|-|-|
+
+
+<table>
+<tr>
+<td valign="top"  width="50%">
+
+#### 🐍 contributions
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=defings)
+</td>
+<td valign="top"  width="50%">
+
+#### 👉 My activity
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=defings)
+</td>
+</tr>
+</table>
