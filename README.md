@@ -14,7 +14,7 @@
 **「心之所向，素履以往，生如逆旅，一苇以航.」** ❤️
 </td>
 <td valign="center"  width="100%" height="100%">
-<img src="https://static.tongjing.cc/private-user/picture/github-home.jpg" width="500" height="300">
+<img src="https://static.tongjing.cc/private-user/picture/github-home.jpg">
 </td>
 </tr>
 </table>
